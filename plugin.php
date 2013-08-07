@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: aDropboxGallery
-Plugin URI:  http://github.com
+Plugin URI:  https://github.com/alvaroveliz/aDropboxGallery
 Description: Alvaro's Dropbox Gallery
 Version:     1.0 
 Author:      Alvaro Véliz
